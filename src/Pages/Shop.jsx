@@ -4,7 +4,6 @@ import Popular from '../Components/Popular/Popular'
 import './Shop.css'
 import Offers from '../Components/Offers/Offers'
 import NewCollections from '../Components/NewCollections/NewCollections'
-import { Outlet } from 'react-router-dom'
 import NewsLetter from '../Components/NewsLetter/NewsLetter'
 
 export default function Shop() {
